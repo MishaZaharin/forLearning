@@ -1,0 +1,12 @@
+
+s
+java:S1104"XMake arrayStrYour a static final constant or non-public and provide accessors if needed.(Íì–üÿÿÿÿ
+M
+java:S1444"2Make this "public static arrayStrYour" field final(Íì–üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+B
+java:S2386"'Make member "arrayStrYour" "protected".(èô†´ùÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(ƒ±èÕıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€š–÷

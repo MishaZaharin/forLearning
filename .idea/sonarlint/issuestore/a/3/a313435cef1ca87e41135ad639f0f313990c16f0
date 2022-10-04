@@ -1,0 +1,108 @@
+
+f
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(•“âÿÿÿÿÿ8¸ìòÛµ0
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ò½¸øÿÿÿÿ8¸ìòÛµ0
+a
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(²Ûº€8¹ìòÛµ0
+f
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(ÿº¢‘ÿÿÿÿÿ8¹ìòÛµ0
+g
+java:S1120"EMake this line start after 18 spaces to indent the code consistently.(ïÓÍ„ûÿÿÿÿ8¹ìòÛµ0
+a
+java:S1120!"DMake this line start after 6 spaces to indent the code consistently.(¬Š÷8¹ìòÛµ0
+f
+java:S1120,"DMake this line start after 4 spaces to indent the code consistently.(ò½¸øÿÿÿÿ8ºìòÛµ0
+a
+java:S1120/"DMake this line start after 6 spaces to indent the code consistently.(²Ûº€8ºìòÛµ0
+f
+java:S11201"DMake this line start after 8 spaces to indent the code consistently.(·ş¶½úÿÿÿÿ8ºìòÛµ0
+f
+java:S11205"DMake this line start after 6 spaces to indent the code consistently.(óô¸—ÿÿÿÿÿ8ºìòÛµ0
+a
+java:S1120:"DMake this line start after 4 spaces to indent the code consistently.(åÙÇ8»ìòÛµ0
+a
+java:S1120L"DMake this line start after 6 spaces to indent the code consistently.(Üî€¹8»ìòÛµ0
+a
+java:S1120M"DMake this line start after 8 spaces to indent the code consistently.(¬é‘¤8»ìòÛµ0
+s	java:S109D"RAssign this magic number 5 to a well-named constant, and use the constant instead.(ÄÍåÅÿÿÿÿÿ8½ìòÛµ0
+n	java:S109I"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ñÇÈĞ8¾ìòÛµ0
+n	java:S109I"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ñÇÈĞ8¾ìòÛµ0
+n	java:S109K"RAssign this magic number 4 to a well-named constant, and use the constant instead.(¨¬öà8¿ìòÛµ0
+n	java:S109L"RAssign this magic number 4 to a well-named constant, and use the constant instead.(Üî€¹8¿ìòÛµ0
+7
+java:S1220""Move this file to a named package.8ÔìòÛµ0
+;	java:S113"'Add a new line at the end of this file.8ÕìòÛµ0
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(«¬Ñµ8ÙìòÛµ0
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(•“âÿÿÿÿÿ8ÙìòÛµ0
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(„½„8ÙìòÛµ0
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(±®Ûûÿÿÿÿ8ÙìòÛµ0
+^
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(Óê³ë8ÙìòÛµ0
+^
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(å½§Ô8ÚìòÛµ0
+c
+java:S1106."AMove this left curly brace to the beginning of next line of code.(É™€ïüÿÿÿÿ8ÚìòÛµ0
+c
+java:S11060"AMove this left curly brace to the beginning of next line of code.(ö§—Åÿÿÿÿÿ8ÚìòÛµ0
+c
+java:S11064"AMove this left curly brace to the beginning of next line of code.(É™€ïüÿÿÿÿ8ÚìòÛµ0
+^
+java:S11069"AMove this left curly brace to the beginning of next line of code.(­çªÇ8ÚìòÛµ0
+^
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(¨¬öà8ÚìòÛµ0
+^
+java:S1106L"AMove this left curly brace to the beginning of next line of code.(Üî€¹8ÛìòÛµ0
+;
+java:S1451"&Add or update the header of this file.8ÜîòÛµ0
+X
+java:S1449"6Define the locale to be used in this String operation.(ò½¸øÿÿÿÿ8ïòÛµ0
+L
+java:S6212"/Declare this local variable with "var" instead.(„½„8œïòÛµ0
+L
+java:S6212"/Declare this local variable with "var" instead.(²Ûº€8ïòÛµ0
+L
+java:S2211"*Specify a type for: 'character', 'integer'(ÿº¢‘ÿÿÿÿÿ8¡ïòÛµ0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(¬Š÷8¬ïòÛµ0
+X
+java:S1449,"6Define the locale to be used in this String operation.(ò½¸øÿÿÿÿ8¯ïòÛµ0
+K
+java:S6212-"/Declare this local variable with "var" instead.(ÿÛÛ:8¯ïòÛµ0
+Q
+java:S6212."/Declare this local variable with "var" instead.(É™€ïüÿÿÿÿ8°ïòÛµ0
+L
+java:S6212/"/Declare this local variable with "var" instead.(²Ûº€8°ïòÛµ0
+Q
+java:S62124"/Declare this local variable with "var" instead.(É™€ïüÿÿÿÿ8²ïòÛµ0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(óô¸—ÿÿÿÿÿ8²ïòÛµ0
+L
+java:S6212:"/Declare this local variable with "var" instead.(åÙÇ8´ïòÛµ0
+L
+java:S6212;"/Declare this local variable with "var" instead.(Øïì˜8µïòÛµ0
+Q
+java:S6212<"/Declare this local variable with "var" instead.(½¿¶¨ùÿÿÿÿ8µïòÛµ0
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(’ıÙ†8¶ïòÛµ0
+L
+java:S6212?"/Declare this local variable with "var" instead.(®şŠ©8·ïòÛµ0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(Ó¦…æ8¸ïòÛµ0
+Q
+java:S6212B"/Declare this local variable with "var" instead.(é‘‹õøÿÿÿÿ8¹ïòÛµ0
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(‚é¶÷8ºïòÛµ0
+Q
+java:S6212F"/Declare this local variable with "var" instead.(ˆÏö…øÿÿÿÿ8»ïòÛµ0
+U
+java:S4248G"3Refactor this code to use a "static final" Pattern.(Ç¤¹ıÿÿÿÿ8ÎïòÛµ0
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(¿‘òÏ8ÓïòÛµ0
+L
+java:S6212I"/Declare this local variable with "var" instead.(ñÇÈĞ8ÔïòÛµ0
+L
+java:S6212J"/Declare this local variable with "var" instead.(ŒÂëó8ÔïòÛµ0
+L
+java:S6212K"/Declare this local variable with "var" instead.(¨¬öà8ÕïòÛµ0
+L
+java:S6212L"/Declare this local variable with "var" instead.(Üî€¹8ÕïòÛµ0
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(™Ç“Æ8ÖïòÛµ0

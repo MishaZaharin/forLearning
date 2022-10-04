@@ -1,0 +1,38 @@
+
+ˆ
+java:S1192"mDefine a constant instead of duplicating this literal "src/methodsPathFilesChamnnels/Chukovskiy.txt" 8 times.(¯ÀğËÿÿÿÿÿ
+g
+java:S11924"JDefine a constant instead of duplicating this literal "something" 3 times.(ú›Ó8»”õ®0
+3
+java:S1643¥"Use a StringBuilder instead.(ŠİÀô
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í»»ßıÿÿÿÿ
+]
+java:S1226Ÿ"AIntroduce a new variable instead of reusing the parameter "path".(¶´×ıÿÿÿÿ
+e
+java:S2095 "NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Ğ¿ƒ¿
+^
+java:S2095:"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¯›¥¸
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‘ÿúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÿúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š€ÉÍ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ëÀ“Û
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+Z
+java:S2147`"DCombine this catch with the one at line 94, which has the same body.(ï­£Ä
+\
+java:S2147"ECombine this catch with the one at line 138, which has the same body.(ï­£Ä
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(’ıÙ†
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(–àà»úÿÿÿÿ
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(ğÓŸŞ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿ
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.(úÚŠâ
+O	java:S106Ã"9Replace this use of System.out or System.err by a logger.(™’£
+B
+java:S1481Å"&Remove this unused "f" local variable.(°àİ€úÿÿÿÿ
+O	java:S106É"9Replace this use of System.out or System.err by a logger.(ÎÖÒÁ

@@ -1,0 +1,10 @@
+
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(‹üÖŽýÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(»ÔÀš
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(‰¹ÆÎýÿÿÿÿ
+@
+java:S1068%"*Remove this unused "height" private field.(š»ä¶
+@
+java:S1068."*Remove this unused "height" private field.(š»ä¶
+@
+java:S1068/"%Remove this unused "s" private field.(ôëÏ£ýÿÿÿÿ
